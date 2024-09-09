@@ -1,5 +1,5 @@
 # jni-native-access-test
-Tests JDK-24 enable native access for JNI.
+Tests JDK-24 enable native access for JNI, see [JEP 472: Prepare to Restrict the Use of JNI](https://openjdk.org/jeps/472).
 
 The test application is composed of three modules:
 
